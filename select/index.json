@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "ウミユリ海底譚",
+  "base_artist": "望月穂波",
+  "createdAt": "2025-12-04T07:43:05.151394Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "n-buna",
+      "has_synced": false,
+      "path": "select/01_ウミユリ海底譚_n-buna.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚(カバー)",
+      "artist": "松下",
+      "has_synced": true,
+      "path": "select/02_ウミユリ海底譚(カバー)_松下.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "松下",
+      "has_synced": true,
+      "path": "select/03_ウミユリ海底譚_松下.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚 (feat. 星乃一歌&望月穂波&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/04_ウミユリ海底譚_(feat._星乃一歌&望月穂波&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "Leo／need",
+      "has_synced": true,
+      "path": "select/05_ウミユリ海底譚_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "n-buna feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/06_ウミユリ海底譚_n-buna_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "n-buna",
+      "has_synced": true,
+      "path": "select/07_ウミユリ海底譚_n-buna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "ナブナ",
+      "has_synced": true,
+      "path": "select/08_ウミユリ海底譚_ナブナ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/09_ウミユリ海底譚_majiko.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ウミユリ海底譚",
+      "artist": "Leo/need feat. 星乃一歌&望月穂波&初音ミク",
+      "has_synced": true,
+      "path": "select/10_ウミユリ海底譚_Leo_need_feat._星乃一歌&望月穂波&初音ミク.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ウミユリ海底譚",
+      "artist": "望月穂波",
+      "has_synced": false,
+      "path": "select/pl_01_ウミユリ海底譚_望月穂波.txt"
+    }
+  ]
+}
